@@ -1,0 +1,7 @@
+# 요청에 따라 메인 소스 파일 제외
+main.cs
+
+# Visual Studio 빌드 결과물 제외
+bin/
+obj/
+.vs/
