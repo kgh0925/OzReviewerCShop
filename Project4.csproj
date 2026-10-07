@@ -43,6 +43,7 @@
     <Compile Include="gm009.cs" />
     <Compile Include="gm011.cs" />
     <Compile Include="gm012.cs" />
+    <Compile Include="gm013.cs" />
     <Compile Include="main.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
